@@ -1,0 +1,17 @@
+<footer class="text-gray-600 body-font">
+  <div class="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col lg:w-2/3">
+    <a class="flex title-font font-medium items-center md:justify-start justify-center text-gray-900" href="/">
+      <span class="ml-3 text-xl">{{ site.title | escape }}</span>
+    </a>
+    <p class="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">By {{ site.author | escape }} [2020] —
+      <a href="https://twitter.com/perrythroat" class="text-gray-600 ml-1" rel="noopener noreferrer" target="_blank">@perrythroat</a>
+    </p>
+    <span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
+      <p class="rss-subscribe">subscribe
+        <a class="text-red-600 hover:text-blue-600" href="{{ "/feed.xml" | relative_url }}">
+          via RSS
+        </a>
+      </p>
+    </span>
+  </div>
+</footer>
