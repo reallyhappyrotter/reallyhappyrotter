@@ -1,7 +1,7 @@
 ---
 permalink: /i/
 layout: page
-title: "I"
+title: "Me"
 ---
 I'm Happy Rotter
 
