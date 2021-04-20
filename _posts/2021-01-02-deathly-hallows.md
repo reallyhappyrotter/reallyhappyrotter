@@ -1,8 +1,6 @@
 ---
 title: "Voldemort and the Blind Harry"
-date: 2021-01-02
 author: "Happy Rotter"
-permalink: /hogwarts/harry-who-was-blind
 layout: post
 ---
 

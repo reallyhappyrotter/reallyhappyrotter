@@ -1,8 +1,6 @@
 ---
 title: "Aunt Petunia and the Dead Cow"
-date: 2021-01-02
 author: "Happy Rotter"
-permalink: /hogwarts/petunia-and-the-dead-cow
 layout: post
 ---
 

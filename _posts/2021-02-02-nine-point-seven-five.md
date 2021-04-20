@@ -1,8 +1,6 @@
 ---
 title: "The Best-Selling Characters"
-date: 2021-01-02
 author: "Happy Rotter"
-permalink: /hogwarts/nine-point-seven-five
 layout: post
 ---
 

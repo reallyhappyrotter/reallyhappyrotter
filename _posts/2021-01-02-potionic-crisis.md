@@ -1,8 +1,6 @@
 ---
 title: "Ron and the Potion intended for Harry"
-date: 2021-01-02
 author: "Happy Rotter"
-permalink: /hogwarts/potionic-crisis
 layout: post
 ---
 

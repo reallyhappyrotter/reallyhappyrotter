@@ -10,6 +10,20 @@ plugins:
   - jekyll-seo-tag
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+gems:
+  - jekyll-paginate-v2
+
+  # Pagination Settings
+pagination:
+  enabled: true
+  per_page: 3
+  permalink: '/page/:num/'
+  title: ' - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
+permalink: /:year/:month/:title.html
 
 # Exclude from processing.
 # The following items will not be processed, by default.

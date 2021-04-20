@@ -1,8 +1,6 @@
 ---
 title: "Harry Potter and the Black-Tailed Owl"
-date: 2021-01-02
 author: "Happy Rotter"
-permalink: /hogwarts/black-tailed-owl
 layout: post
 ---
 

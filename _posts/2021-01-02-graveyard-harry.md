@@ -1,8 +1,6 @@
 ---
 title: "Harry Potter and the Unmentioned Graveyard"
-date: 2021-01-02
 author: "Happy Rotter"
-permalink: /hogwarts/unmentioned-graveyard
 layout: post
 ---
 

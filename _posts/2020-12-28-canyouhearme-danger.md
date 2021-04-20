@@ -1,8 +1,6 @@
 ---
 title: "Canyouhearme Danger"
-date: 2020-12-28
 author: "Happy Rotter"
-permalink: /characters/canyouhearme-danger
 layout: post
 ---
 

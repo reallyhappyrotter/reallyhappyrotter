@@ -1,8 +1,6 @@
 ---
 title: "Aunt Marge and the 2048 Other Sequels"
-date: 2021-01-02
 author: "Happy Rotter"
-permalink: /hogwarts/2048-other-sequels
 layout: post
 ---
 

@@ -4,7 +4,7 @@ layout: default
 <section class="text-gray-600 body-font overflow-hidden">
   <div class="container px-5 py-12 mx-auto lg:w-2/3">
     <div class="-my-8 divide-y-2 divide-gray-100">
-      {%- for post in site.posts -%}
+      {%- for post in paginator.posts -%}
       <div class="py-8 flex flex-wrap md:flex-nowrap">
         <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
           <span class="font-semibold title-font text-gray-700">{{ post.author }}</span>
@@ -24,5 +24,19 @@ layout: default
       </div>
       {%- endfor -%}
     </div>
+    {% if paginator.total_pages > 1 %}
+  <ul class="pager flex">
+      {% if paginator.previous_page %}
+      <li class="previous pr-10 pt-12">
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+      </li>
+      {% endif %}
+      {% if paginator.next_page %}
+      <li class="next pt-12">
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+      </li>
+      {% endif %}
+  </ul>
+  {% endif %}
   </div>
 </section>

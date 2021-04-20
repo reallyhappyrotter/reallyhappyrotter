@@ -1,8 +1,6 @@
 ---
 title: "Indoor Rachmaninoff"
-date: 2021-01-02
 author: "Happy Rotter"
-permalink: /hogwarts/igor
 layout: post
 ---
 
