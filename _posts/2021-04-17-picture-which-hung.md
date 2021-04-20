@@ -1,5 +1,5 @@
 ---
-title: "The Potrait that Hung in Shame"
+title: "The Portrait that Hung in Shame"
 author: "Happy Rotter"
 layout: post
 ---
